@@ -1,0 +1,24 @@
+.container {
+    background-color: rgba(128, 128, 128, 0.589);
+    margin-top: 35px;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn {
+    color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: rgba(43, 31, 153, 0.567);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    border: 1px solid rgba(33, 23, 117, 0.603);
+}
+
+.btn:hover {
+    color: black;
+    background-color: white;
+}
