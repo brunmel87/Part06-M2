@@ -1,0 +1,33 @@
+#logoHenry {
+  margin-right: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightgrey;
+  padding: 5px;
+  box-sizing: border-box;
+  align-items: center;
+}
+
+.imgTitle {
+  display: flex;
+  justify-content: space-around;
+  width: 17%;
+  margin-left: 5px;
+  box-sizing: border-box;
+  align-items: center;
+}
+
+.img{
+  margin-top: 2px;
+  height: 35px;
+  border-radius: 10px;
+}
+
+.text{
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
