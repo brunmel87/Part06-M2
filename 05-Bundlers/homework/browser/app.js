@@ -6,7 +6,7 @@
 
   // OTRA FORMA DE IMPORTAR
   // import whiteboard from './whiteboard.js';
-  import io from 'socket.io-client';
+  // import io from 'socket.io-client';
 
 socket.on('connect', function () {
   console.log('Connected!');
